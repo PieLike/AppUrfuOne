@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlackHalfInvisible">#8c000000</color>
+
+    <color name="colorUrfu2">#ea1e63</color>
+    <color name="colorUrfu3">#ea1e63</color>
+    <color name="colorUrfuDark3">#c2175b</color>
+    <color name="colorUrfuMainText">#313131</color>
+    <color name="colorUrfuAdditionalText">#909090</color>
+</resources>

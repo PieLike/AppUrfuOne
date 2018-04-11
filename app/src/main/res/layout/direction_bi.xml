@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pielikes.appurfuone.DirectionBI">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:id="@+id/textBI1_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:text="Образовательная программа"
+                    android:textColor="@color/caldroid_black"
+                    android:layout_marginRight="15dp"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/textBI1_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="7dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_weight="1"
+                    android:text="Направление/специальность"
+                    android:layout_marginRight="15dp"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/textBI1_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_weight="1"
+                    android:text="Уровень подготовки"
+                    android:layout_marginRight="15dp"
+                    android:textSize="14dp" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/view"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorBlackHalfInvisible" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:id="@+id/textBI2_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Институт:"
+                    android:layout_marginRight="15dp"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/textBI2_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp"
+                    android:layout_marginLeft="25dp"
+                    android:text=" "
+                    android:textColor="@color/caldroid_black"
+                    android:layout_marginRight="15dp"
+                    android:textSize="16dp" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/view5"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorBlackHalfInvisible" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:id="@+id/textBI3_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Форма обучения:"
+                    android:layout_marginRight="15dp"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/textBI3_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp"
+                    android:layout_marginLeft="25dp"
+                    android:text=" "
+                    android:textColor="@color/caldroid_black"
+                    android:layout_marginRight="15dp"
+                    android:textSize="16dp" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/view1"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorBlackHalfInvisible" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:id="@+id/textBI4_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Вступительные испытания (мин. Баллы ЕГЭ):"
+                    android:layout_marginRight="15dp"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/textBI4_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="25dp"
+                    android:lineSpacingExtra="4dp"
+                    android:text=" "
+                    android:textColor="@color/caldroid_black"
+                    android:layout_marginRight="15dp"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:id="@+id/textBI4_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp"
+                    android:layout_marginLeft="25dp"
+                    android:text="Проходной балл в прошлом году: "
+                    android:textColor="@color/caldroid_black"
+                    android:layout_marginRight="15dp"
+                    android:textSize="13dp" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/view2"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorBlackHalfInvisible" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:id="@+id/textBI5_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Выделено мест:"
+                    android:layout_marginRight="15dp"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/textBI5_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="4dp"
+                    android:layout_marginLeft="25dp"
+                    android:text="Очная форма:"
+                    android:layout_marginRight="15dp"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/textBI5_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp"
+                    android:layout_marginLeft="25dp"
+                    android:lineSpacingExtra="4dp"
+                    android:text=" "
+                    android:textColor="@color/caldroid_black"
+                    android:layout_marginRight="15dp"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:id="@+id/textBI5_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="4dp"
+                    android:layout_marginLeft="25dp"
+                    android:text="Заочная форма:"
+                    android:layout_marginRight="15dp"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/textBI5_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp"
+                    android:layout_marginLeft="25dp"
+                    android:text=" "
+                    android:textColor="@color/caldroid_black"
+                    android:layout_marginRight="15dp"
+                    android:textSize="16dp" />
+
+            </LinearLayout>
+            <View
+                android:id="@+id/view3"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorBlackHalfInvisible" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:id="@+id/textBI6_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:text="Описание программы:"
+                    android:textColor="@color/caldroid_black"
+                    android:layout_marginRight="15dp"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:id="@+id/textBI6_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_weight="1"
+                    android:text="Описание"
+                    android:layout_marginRight="15dp"
+                    android:textSize="14dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

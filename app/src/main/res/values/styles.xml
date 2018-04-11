@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+
+    <style name="UrfuTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/colorUrfu3</item>
+        <item name="colorPrimaryDark">@color/colorUrfuDark3</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="WhiteTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/colorWhite</item>
+        <item name="colorPrimaryDark">@color/colorWhite</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="UrfuTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="UrfuTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" >
+        <item name="colorPrimary">@color/colorUrfu3</item>
+        <item name="colorPrimaryDark">@color/colorUrfuDark3</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="UrfuTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" >
+        <item name="colorPrimary">@color/colorUrfu3</item>
+        <item name="colorPrimaryDark">@color/colorUrfuDark3</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+</resources>

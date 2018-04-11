@@ -1,0 +1,164 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.pielikes.appurfuone.FragmentMain">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/LinearViewEIM"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+
+                    <LinearLayout
+                        android:layout_width="75dp"
+                        android:layout_height="75dp"
+                        android:orientation="vertical">
+
+                        <Button
+                            android:id="@+id/buttonEIM1"
+                            android:layout_width="match_parent"
+                            android:layout_height="75dp"
+                            android:background="@drawable/brendbuk_urfu_eim" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="75dp"
+                        android:orientation="vertical">
+
+                        <Button
+                            android:id="@+id/buttonEIM2"
+                            android:layout_width="match_parent"
+                            android:layout_height="75dp"
+                            android:layout_weight="1"
+                            android:background="@color/caldroid_transparent"
+                            android:text="Высшая школа экономики и менеджмента" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"></LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorBlackHalfInvisible" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+                    <ImageView
+                        android:id="@+id/imageView7"
+                        android:layout_width="75dp"
+                        android:layout_height="75dp"
+                        app:srcCompat="@drawable/brendbuk_urfu_rtf" />
+
+                    <Button
+                        android:id="@+id/button6"
+                        android:layout_width="match_parent"
+                        android:layout_height="75dp"
+                        android:background="@color/caldroid_transparent"
+                        android:elevation="0dp"
+                        android:text="Институт радиоэлектроники и информационных технологий" />
+                </LinearLayout>
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorBlackHalfInvisible" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+                    <ImageView
+                        android:id="@+id/imageView8"
+                        android:layout_width="75dp"
+                        android:layout_height="75dp"
+                        app:srcCompat="@drawable/brendbuk_urfu_mim" />
+                    <Button
+                        android:id="@+id/button7"
+                        android:layout_width="match_parent"
+                        android:layout_height="75dp"
+                        android:background="@color/caldroid_transparent"
+                        android:elevation="0dp"
+                        android:text="Институт материаловедения и металлургии" />
+                </LinearLayout>
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorBlackHalfInvisible" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+                    <ImageView
+                        android:id="@+id/imageView9"
+                        android:layout_width="75dp"
+                        android:layout_height="75dp"
+                        app:srcCompat="@drawable/brendbuk_urfu_mkn" />
+
+                    <Button
+                        android:id="@+id/button8"
+                        android:layout_width="match_parent"
+                        android:layout_height="75dp"
+                        android:background="@color/caldroid_transparent"
+                        android:elevation="0dp"
+                        android:text="Институт математики и компьютерных наук" />
+                </LinearLayout>
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorBlackHalfInvisible" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+                    <ImageView
+                        android:id="@+id/imageView10"
+                        android:layout_width="75dp"
+                        android:layout_height="75dp"
+                        app:srcCompat="@drawable/brendbuk_urfu_hti" />
+
+                    <Button
+                        android:id="@+id/button9"
+                        android:layout_width="match_parent"
+                        android:layout_height="75dp"
+                        android:background="@color/caldroid_transparent"
+                        android:elevation="0dp"
+                        android:text="Химико-технологический институт " />
+                </LinearLayout>
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorBlackHalfInvisible" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

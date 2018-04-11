@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">Абитуриент УрФУ</string>
+    <string name="title_activity_menu">Главная</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Urfu_description">Уральский федеральный университет имени первого Президента России Б. Н. Ельцина — федеральный университет в Екатеринбурге, созданный на базе Уральского государственного
+        технического университета — УПИ имени первого Президента России Б.Н. Ельцина</string>
+    <string name="step1title">ШАГОХОД</string>
+    <string name="step_name_1"><b>1. Регистрация в личном кабинете</b></string>
+    <string name="step_content_1">Зарегистрировавшись в личном кабинете абитуриента, тебе откроется множество возможностей: \n
+1. До старта Приемной Кампании 2018 быть в курсе всех событий университета; \n
+2. Сообщить нам о своих приоритетах, выбранных направлениях и образовательных программах; \n
+3. Подать все необходимые документы для поступления онлайн;\n
+4. Следить за расписанием вступительных испытаний (если они проводятся на выбранной Вами специальности).</string>
+
+    <string name="step_name_2"><b>2. Выбор программы</b></string>
+    <string name="step_content_2_1">    Ознакомьтесь с направлениями и специальностями подготовки бакалавриата и специалитета и формами обучения, по которым они реализуются:</string>
+    <string name="step_content_2_2"><a href="https://urfu.ru/ru/applicant/docs-abiturient/programs/"><u>https://urfu.ru/ru/applicant/docs-abiturient...</u></a></string>
+    <string name="step_content_2_3">*Каждый абитуриент имеет право подать документы в 5 вузов на 3 направления по каждой форме обучения</string>
+
+    <string name="step_name_3"><b>3. Ознакомление с правилами приема</b></string>
+    <string name="step_content_3_1">    Сколько бюджетных и контрактных мест выделено? Какова стоимость обучения? В какие сроки нужно предоставить документы? Чтобы найти ответы на эти и другие вопросы, необходимо изучить правила приема 2018 года.\n
+        Правила приема:</string>
+    <string name="step_content_3_2"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Pravila_priema_po_programmam_bakalavriata_i_specialiteta_2018.pdf"><u>https://urfu.ru/fileadmin/user_upload/urfu.ru/documents...</u></a></string>
+    <string name="step_content_3_3">Сроки приема:</string>
+    <string name="step_content_3_4"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Informacija_o_srokakh_provedenija_priema_na_mesta_v_ramkakh_KCP.pdf"><u>https://urfu.ru/fileadmin/user_upload/urfu.ru/documents...</u></a></string>
+    <string name="step_content_3_5">Количество бюджетных мест</string>
+    <string name="step_content_3_6"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Plan_priema_2018_po_napravlenijam_bakalavriata_i_specialiteta__bjudzhet__kontrakt_.pdf"><u>https://urfu.ru/fileadmin/user_upload/urfu.ru/documents...</u></a></string>
+    <string name="step_content_3_7">Льготы:</string>
+    <string name="step_content_3_8"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Lgoty_dlja_pobeditelei_i_prizerov_olimpiad.pdf"><u>https://urfu.ru/fileadmin/user_upload/urfu.ru/documents...</u></a></string>
+    <string name="step_content_3_9">Особые права и преимущества при поступлении:</string>
+    <string name="step_content_3_10"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Informacija_o_predostavljaemykh_postupajushchim_osobykh_prav_i_preimushchestv.pdf"><u>https://urfu.ru/fileadmin/user_upload/urfu.ru/documents...</u></a></string>
+    <string name="step_content_3_11">Стоимость обучения на 2018/19 учебный год будет опубликована на сайте к 1 июня 2018 года. Вы можете ознакомиться со стоимостью на 2017/18 учебный год.</string>
+
+    <string name="step_name_4"><b>4. Сдача вступительных испытаний</b></string>
+    <string name="step_content_4_1">    Для успешной сдачи вступительных испытаний необходимо установить себе хорошую планку. Как правило, в каждом ВУЗе установлены проходные баллы по каждому направлению- это количество баллов человека, занявшего последнее бюджетное место.\n
+    Вступительные испытания и минимальные баллы:</string>
+    <string name="step_content_4_2"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Perechen_vstupitelnykh_ispytanii_s_ukazaniem_minimalnykh_ballov.pdf"><u>https://urfu.ru/fileadmin/user_upload...</u></a></string>
+    <string name="step_content_4_3">Олимпиады:</string>
+    <string name="step_content_4_4"><a href="https://urfu.ru/ru/school/olympiad/"><u>https://urfu.ru/ru/school/olympiad</u></a></string>
+    <string name="step_content_4_5">Учет индивидуальных достижений:</string>
+    <string name="step_content_4_6"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Informacija_o_porjadke_ucheta_individualnykh_dostizhenii.pdf"><u>https://urfu.ru/fileadmin/user_upload...</u></a></string>
+    <string name="step_content_4_7">Вступительные, проводимые ВУЗом самостоятельно:</string>
+    <string name="step_content_4_8"><a href="https://urfu.ru/ru/applicant/docs-abiturient/"><u>https://urfu.ru/ru/applicant/docs-abiturient</u></a></string>
+
+    <string name="step_name_5"><b>5. Подача документов</b></string>
+    <string name="step_content_5_1">    Первое правило абитуриента: подать документы точно в срок!\n
+Для подачи заявления необходимо иметь результаты вступительных испытаний и полный пакет документов:\n
+· Паспорт +2 копии (стр. с фото и пропиской)\n
+· Документ об образовании (аттестат/диплом) +2 копии\n
+· 4 фотографии формата 3*4\n
+    Сроки приема:</string>
+    <string name="step_content_5_2"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Informacija_o_srokakh_provedenija_priema_na_mesta_v_ramkakh_KCP.pdf"><u>https://urfu.ru/fileadmin/user_upload...</u></a></string>
+    <string name="step_content_5_3">Подача документов почтой России:</string>
+    <string name="step_content_5_4"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Informacija_o_pochtovykh_adresakh_dlja_napravlenija_dokumentov__neobkhodimykh_dlja_postuplenija.pdf"><u>https://urfu.ru/fileadmin/user_upload...</u></a></string>
+    <string name="step_content_5_5">Места приема документов:</string>
+    <string name="step_content_5_6"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Informacija_o_mestakh_priema_dokumentov__neobkhodimykh_dlja_postuplenija.pdf"><u>https://urfu.ru/fileadmin/user_upload...</u></a></string>
+    <string name="step_content_5_7">Подача в электронной форме:</string>
+    <string name="step_content_5_8"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Informacija_o_vozmozhnosti_podachi_dokumentov_v_ehlektronnoi_forme.pdf"><u>https://urfu.ru/fileadmin/user_upload...</u></a></string>
+
+    <string name="step_name_6"><b>6. Зачисление</b></string>
+    <string name="step_content_6_1">    После успешной подачи документов ваша кандидатура появится в конкурсных списках на зачисление. Посмотреть списки можно будет после начала приема документов в разделе «Абитуриентам».</string>
+    <string name="step_content_6_2"><a href="https://urfu.ru/ru/applicant/"><u>https://urfu.ru/ru/applicant</u></a></string>
+
+    <string name="faq_Quest_1">Какой проходной балл в этом году?</string>
+    <string name="faq_Quest_2">С какими баллами я могу подавать документы?</string>
+    <string name="faq_Quest_3">Если у меня меньше минимальных баллов, установленных УрФУ, могу ли я подать документы?</string>
+    <string name="faq_Quest_4">За какие достижения УрФУ дает дополнительные баллы?</string>
+    <string name="faq_Quest_5">Когда пишется заявление о согласии на зачисление?</string>
+    <string name="faq_Quest_6">Если я не прошла на бюджетное место, могу ли я заключить договор на коммерческую основу?</string>
+    <string name="faq_Quest_7">Где я могу найти программу вступительных испытаний?</string>
+    <string name="faq_Quest_8">До какого числа можно изменить выбранные направления, указанные при подаче заявления на участие в конкурсе?</string>
+    <string name="faq_Quest_9"> Где я могу ознакомиться с количеством бюджетных мест?</string>
+    <string name="faq_Quest_10">Можно ли перепоступить на другую специальность с результатами прошлого года?</string>
+    <string name="faq_Quest_11">Можно ли подавать документы за ребенка?</string>
+    <string name="faq_Quest_12">Будет ли предоставлено общежитие?</string>
+    <string name="faq_Quest_13">Куда я могу поступить со своим набором ЕГЭ?</string>
+    <string name="faq_Quest_14">В каком случае нужна профильная математика?</string>
+    <string name="faq_Quest_15">Если я не сдал экзамен в школе, можно ли сдать вступительное испытание в ВУЗе?</string>
+    <string name="faq_Quest_16">На все ли направления выделены бюджетные и контрактные места?</string>
+    <string name="faq_Quest_17">Предоставляются ли скидки на обучение при поступлении  в 2018 году?</string>
+    <string name="faq_Quest_18">Нужна ли мед. справка, которую давали в школе формы 086-У?</string>
+    <string name="faq_Quest_19">При подаче документов требуются копии паспорта и документа об образовании. Нужно ли их заверять у нотариуса?</string>
+    <string name="faq_Quest_20">Предусмотрены ли какие-нибудь льготы победителям и призерам олимпиад?</string>
+    <string name="faq_Quest_21">Добавляются ли баллы за итоговое сочинение?</string>
+    <string name="faq_Answer_1">Проходной балл устанавливается после приказа о зачислении. Это балл человека, занявшего последнее бюджетное место. Вы можете ориентироваться на проходные баллы прошлого года.</string>
+    <string name="faq_Answer_2">С минимальными баллами, установленными в УрФУ. С этими баллами вы можете подавать документы на бюджетную и на контрактную основу.</string>
+    <string name="faq_Answer_3">К сожалению, нет.</string>
+    <string name="faq_Answer_4">Абитуриенты вправе представить сведения о своих индивидуальных достижениях, результаты которых учитываются при приеме на обучение.</string>
+    <string name="faq_Answer_4_site1"><a href="https://urfu.ru/ru/applicant/docs-abiturient/individual-achievements/"><u>https://urfu.ru...individual-achievements</u></a></string>
+    <string name="faq_Answer_5">Заявление о согласии на зачисление пишется при сдаче оригинала документа об образовании.</string>
+    <string name="faq_Answer_6">Да, если в листе участника конкурса вы отметили и бюджет, и контракт.</string>
+    <string name="faq_Answer_7">С программами вступительных испытаний вы можете ознакомиться в разделе «Программы вступительных испытаний, проводимых вузом самостоятельно, для поступления на программы ВО»:</string>
+    <string name="faq_Answer_7_site1"><a href="http://urfu.ru/ru/applicant/docs-abiturient/"><u>http://urfu.ru...docs-abiturient</u></a></string>
+    <string name="faq_Answer_8">У вас есть возможность изменять направления до 26 июля.</string>
+    <string name="faq_Answer_9">В документе с Контрольными цифрами:</string>
+    <string name="faq_Answer_9_site1"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Plan_priema_2018_po_napravlenijam_bakalavriata_i_specialiteta__bjudzhet__kontrakt_.pdf"><u>https://urfu.ru...Plan_priema_2018.pdf</u></a></string>
+    <string name="faq_Answer_10">Да, Вы можете участвовать в общем конкурсе, подав заново документы.</string>
+    <string name="faq_Answer_11">Можно, но только с нотариально оформленной доверенностью.</string>
+    <string name="faq_Answer_12">Да, если Вы проживаете в радиусе более 70 км от Екатеринбурга. Сначала заселяют студентов на бюджетной основе, затем на оставшиеся места студентов на коммерческой основе. Общежитие платное для всех.</string>
+    <string name="faq_Answer_13">У нас есть калькулятор ЕГЭ. Там вы можете выбрать сданные вами предметы и увидеть перечень направлений, на которые можете поступить.</string>
+    <string name="faq_Answer_13_site1"><a href="https://priem.urfu.ru/ege"><u>https://priem.urfu.ru/ege</u></a></string>
+    <string name="faq_Answer_14">Если в перечне вступительных испытаний указывается "математика", то она подразумевает профильный уровень, во всех остальных случаях достаточно базового уровня.</string>
+    <string name="faq_Answer_15">Вступительные испытания можно сдать только абитуриентам, которые поступают на базе диплома СПО. Если же Вы закончили школу, то поступать можете только по результатам ЕГЭ.</string>
+    <string name="faq_Answer_16">Если в документе "Контрольные цифры приема" в любой из граф указано 0 мест, то это означает, что их не выделено на данное направление.</string>
+    <string name="faq_Answer_17">В январе 2018 года на сайте УрФУ можно будет ознакомиться с перечнем скидок и условиями их предоставления.</string>
+    <string name="faq_Answer_18">"При подаче документов мед. справка нужна только на некоторые технические специальности:
+11.05.02. «Радиоэлектронные системы и комплексы»
+13.03.01. «Теплоэнергетика и теплотехника»
+13.03.02. «Электроэнергетика и электротехника»
+13.03.03. «Энергетическое машиностроение»
+14.03.02. «Ядерные физика и технологии»
+14.05.01. «Ядерные реакторы и материалы»
+14.05.02. «Атомные станции: проектирование, эксплуатация и инжиниринг»
+14.05.03. «Технологии разделения изотопов и ядерное топливо»
+14.05.04. «Электроника и автоматизация физических установок»
+20.05.01. «Пожарная безопасность»
+23.03.02. «Наземные транспортно-технологические комплексы»
+23.03.03. «Эксплуатация транспортно-технологических комплексов»
+23.05.02. «Транспортные средства специального назначения»
+Справка берется у терапевта. В ней пишется направление подготовки и то, что данных противопоказаний нет.
+Противопоказания на указанные выше направления прописаны в перечне направлений.
+Остальным справка 086-У понадобится уже после зачисления на 1 курсе при прохождении медосмотра."</string>
+    <string name="faq_Answer_19">Нет. Копии паспорта и документа об образовании заверять не нужно.</string>
+    <string name="faq_Answer_20">Да, предусмотрены. Можете ознакомиться с полным перечнем льгот. Обращаем Ваше внимание, что для использования результатов олимпиады необходимо наличие результатов ЕГЭ не ниже 75 баллов по соотвествующему общеобразовательному предмету.</string>
+    <string name="faq_Answer_20_site1"><a href="https://urfu.ru/fileadmin/user_upload/urfu.ru/documents/applicant/2018/postuplenie-vo/Lgoty_dlja_pobeditelei_i_prizerov_olimpiad.pdf"><u>https://urfu.ru...Lgoty_dlja_pobeditelei_i_prizerov_olimpiad.pdf</u></a></string>
+    <string name="faq_Answer_21">Итоговое сочинение не учитывается в УрФУ ни на какие направления.</string>
+
+
+    <string name="institute_info_eim_1">    Крупнейший институт Уральского федерального университета, который сочетает в себе фундаментальный характер образования с практической применимостью знаний.</string>
+    <string name="institute_info_eim_2">    ВШЭМ УрФУ — признанный центр подготовки экономистов и управленцев, действующий в интересах социально-экономического развития Уральского федерального округа, а также в интересах крупнейших работодателей отраслей национальной экономики.</string>
+
+    <string name="list_001">"Бизнес - Информатика\n38.03.05 Бизнес - информатика\nВступительные испытания: РМО"</string>
+    <string name="list_002">"Менеджмент в энергетике и высокотехнологичных отраслях\n38.03.02 Менеджмент\nВступительные испытания: РМО"</string>
+
+    <string-array name="my_array">
+        <item>1,пошол</item>
+        <item>2,козёл</item>
+    </string-array>
+
+    <string name="NAPR_name_1"><b>Бизнес - Информатика</b></string>
+    <string name="NAPR_code_1">38.03.05 Бизнес - информатика</string>
+    <string name="NAPR_level_1">Бакалавриат</string>
+    <string name="NAPR_institute_1">Высшая школа экономики и менеджмента</string>
+    <string name="NAPR_form_1">Очная, заочная</string>
+    <string name="NAPR_testing_1">Русский язык (27) \nМатематика (42) \nОбществозание (36)</string>
+    <string name="NAPR_passingScore_1">Проходной балл в прошлом году: 242</string>
+    <string name="NAPR_plasesFT_1">Бюджетных - 13 \nВнебюджетных - 40</string>
+    <string name="NAPR_plasesPT_1">Внебюджетных - 25</string>
+    <string name="NAPR_description_1">тут \nбудет \nописание</string>
+
+    <string name="NAPR_name_2"><b>Менеджмент в энергетике и высокотехнологичных отраслях</b></string>
+    <string name="NAPR_code_2">38.03.02 Менеджмент</string>
+    <string name="NAPR_level_2">Бакалавриат</string>
+    <string name="NAPR_institute_2">Высшая школа экономики и менеджмента</string>
+    <string name="NAPR_form_2">Очная, заочная</string>
+    <string name="NAPR_testing_2">Русский язык (27) \nМатематика (42) \nОбществозание (36)</string>
+    <string name="NAPR_passingScore_2">Проходной балл в прошлом году: 242</string>
+    <string name="NAPR_plasesFT_2">\nВнебюджетных - 40</string>
+    <string name="NAPR_plasesPT_2">Внебюджетных - 25</string>
+    <string name="NAPR_description_2">тут \nбудет \nописание</string>
+
+    <string name="NAPR_name_3"><b>Менеджмент в энергетике и высокотехнологичных отраслях</b></string>
+    <string name="NAPR_code_3">38.03.02 Менеджмент</string>
+    <string name="NAPR_level_3">Бакалавриат</string>
+    <string name="NAPR_institute_3">Высшая школа экономики и менеджмента</string>
+    <string name="NAPR_form_3">Очная, заочная</string>
+    <string name="NAPR_testing_3">Русский язык (27) \nМатематика (42) \nОбществозание (36)</string>
+    <string name="NAPR_passingScore_3">Проходной балл в прошлом году: 242</string>
+    <string name="NAPR_plasesFT_3"></string>
+    <string name="NAPR_plasesPT_3">Внебюджетных - 25</string>
+    <string name="NAPR_description_3">тут \nбудет \nописание</string>
+
+</resources>
